@@ -13,4 +13,19 @@ And here you are, in the midst of this crossfire, seeking money, fame, refuge, f
 
 You will be able to find all sorts of loot to bring back to your boat, from scraps of steel to wires and motherboards from the ship. Exploring also risks encountering a group of others, and visiting at day has a very high chance to have your ship raided. Crafting would definetly be a thing.
 
-Brandon, most certainly, was not here at any point in time.
+------------------------------------------------------------------------------------------------------------
+User Stories
+
+I can adventure around the carrier.
+I can manage my inventory.
+I can craft items from things I collect.
+I can interact with the other factions.
+I can talk to other factions and work with them.
+I can level up and gain skill.
+I can explore deeper and deeper into the carrier over time.
+I can help one faction win it all.
+I can fight a final boss battle against all factions (or all but a few).
+I can have a Speech skill actually be useful.
+I can manage my time between sleeping, fishing, crafting, exploring and travelling.
+I can fight other factions.
+I can encounter non-combat fights, like traps, accidents, moral dillemas.
